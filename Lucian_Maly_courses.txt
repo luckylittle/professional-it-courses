@@ -1,0 +1,198 @@
+2010-02-10 VMWare
+Course number(Internal)
+
+2010-02-25 VoIP I.
+Course name2010-02-25 VoIP I.
+Course number(Internal)
+
+2010-03-03 TCP/IP workshop
+Course name2010-03-03 TCP/IP workshop
+Course number(Internal)
+
+2010-03-05 VoIP II.
+Course name2010-03-05 VoIP II.
+Course number(Internal)
+
+2010-03-22 IDS/IPS technical background
+Course name2010-03-22 IDS/IPS technical background
+Course number(Internal)
+
+2010-06-10 MS Active Directory
+Course name2010-06-10 MS Active Directory
+Course number(External)
+
+2011-01-18 BlackBerry
+Course name2011-01-18 BlackBerry
+Course number(External - BlackBerry)
+
+2011-05-26 IPv6
+Course name2011-05-26 IPv6
+Course number(Internal)
+
+2013-02-01 CloudOps Training #1
+Course name2013-02-01 CloudOps Training #1
+Course number(Internal)
+
+2013-02-08 CloudOps Training #2
+Course name2013-02-08 CloudOps Training #2
+Course number(Internal)
+
+2013-02-19 Connect in the Cloud Maintenance Training
+Course name2013-02-19 Connect in the Cloud Maintenance Training
+Course number(Internal)
+
+2013-02-22 CloudOps Training #3
+Course name2013-02-22 CloudOps Training #3
+Course number(Internal)
+
+2013-09-23 10 things you should know about Android
+Course name2013-09-23 10 things you should know about Android
+Course number(External - Google)
+
+2013-09-23 Developing for scale with the Google Cloud platform: speed, effeciency and simplicity
+Course name2013-09-23 Developing for scale with the Google Cloud platform: speed, effeciency and simplicity
+Course number(External - Google)
+
+2013-09-23 Development principles at Google
+Course name2013-09-23 Development principles at Google
+Course number(External - Google)
+
+2013-09-23 Google Analytics - Learning to love data
+Course name2013-09-23 Google Analytics - Learning to love data
+Course number(External - Google)
+
+2013-09-23 Making the most of Google+ Sign-in
+Course name2013-09-23 Making the most of Google+ Sign-in
+Course number(External - Google)
+
+2013-09-23 Thinking in three dimensions: Google&#39;s mapping and location data platform
+Course name2013-09-23 Thinking in three dimensions: Google's mapping and location data platform
+Course number(External - Google)
+
+2013-10-21 VMware vForum 2013 Sydney
+Course name2013-10-21 VMware vForum 2013 Sydney
+Course number(External - VMware)
+
+2014-08-15 Linux (LFS101X)
+Course name2014-08-15 Linux (LFS101X)
+Course number(Linux Foundation)
+
+2014-08-24 Rackspace CloudU
+Course name2014-08-24 Rackspace CloudU
+Course number(Rackspace)
+
+2014-11-05 VMware vForum 2014 (Sydney)
+Course name2014-11-05 VMware vForum 2014 (Sydney)
+Course number(External - VMware)
+
+2015 Various of online courses (CBT Nuggets, Charles Sturt University, CloudAcademy, edX, InfiniteSkills, LinuxAcademy, LinuxCBT, Lynda, PluralSight, TrainSignal, TutsPlus, Udemy, Video2Brain)
+Course name2015 Various of online courses (CBT Nuggets, Charles Sturt University, CloudAcademy, edX, InfiniteSkills, LinuxAcademy, LinuxCBT, Lynda, PluralSight, TrainSignal, TutsPlus, Udemy, Video2Brain)
+Course number(External)
+
+2015-05-06 Introduction to MCollective
+Course name2015-05-06 Introduction to MCollective
+Course number(Internal - Oracle)
+
+2015-05-07 Getting Started with Oracle Linux and Docker
+Course name2015-05-07 Getting Started with Oracle Linux and Docker
+Course number(Internal - Oracle)
+
+2015-05-12 New in Puppet v3.8
+Course name2015-05-12 New in Puppet v3.8
+Course number(External - PuppetLabs)
+
+2015-05-21 Transform Application Delivery with Containers
+Course name2015-05-21 Transform Application Delivery with Containers
+Course number(External - Red Hat)
+
+2015-06-17 Top 6 misconceptions about Linux containers
+Course name2015-06-17 Top 6 misconceptions about Linux containers
+Course number(External - Red Hat)
+
+2015-06-20 Inaugural Docker meetup
+Course name2015-06-20 Inaugural Docker meetup
+Course number(External - Atlassian)
+
+2015-07-08 Under the hood of OpenShift Enterprise
+Course name2015-07-08 Under the hood of OpenShift Enterprise
+Course number(External - Red Hat)
+
+2015-08-18 Ceph and OpenStack Red Hat&#39;s winning combination for enterprise clouds
+Course name2015-08-18 Ceph and OpenStack Red Hat's winning combination for enterprise clouds
+Course number(External - Red Hat)
+
+2015-08-20 Best practices for deploying Ceph with Red Hat
+Course name2015-08-20 Best practices for deploying Ceph with Red Hat
+Course number(External - Red Hat)
+
+2015-08-20 Containers in the Enterprise
+Course name2015-08-20 Containers in the Enterprise
+Course number(External - Red Hat)
+
+2015-09-02 Amazon Web Services (AWS) Innovative
+Course name2015-09-02 Amazon Web Services (AWS) Innovative
+Course number(External - Amazon)
+
+2015-10-07 &amp; 08 AWS re:Invent 2015
+Course name2015-10-07 & 08 AWS re:Invent 2015
+Course number(External - Amazon)
+
+2015-10-20 Ansible meetup
+Course name2015-10-20 Ansible meetup
+Course number(External)
+
+2015-10-21 VMware vForum 2015 Sydney
+Course name2015-10-21 VMware vForum 2015 Sydney
+Course number(External - VMware)
+
+2015-11-04 AWS meetup
+Course name2015-11-04 AWS meetup
+Course number(External)
+
+2015-11-05 Docker Tutum Overview and Demo
+Course name2015-11-05 Docker Tutum Overview and Demo
+Course number(External - Docker)
+
+2015-11-17 Docker meetup
+Course name2015-11-17 Docker meetup
+Course number(External - Freelancer)
+
+2015-12-09 Securing your business on AWS
+Course name2015-12-09 Securing your business on AWS
+Course number(External - Amazon)
+
+2015-12-11 What&#39;s new in Puppet Enterprise 2015.3
+Course name2015-12-11 What's new in Puppet Enterprise 2015.3
+Course number(External - PuppetLabs)
+
+2016-01-28 What&#39;s new in Ansible 2.0
+Course name2016-01-28 What's new in Ansible 2.0
+Course number(External)
+
+2016-02-10 Debate: Ansible vs Puppet vs Saltstack vs Chef
+Course name2016-02-10 Debate: Ansible vs Puppet vs Saltstack vs Chef
+Course number(External)
+
+2016-02-11 Architecting Secure and Compliant Applications with MongoDB
+Course name2016-02-11 Architecting Secure and Compliant Applications with MongoDB
+Course number(External)
+
+2016-02-13 O&#39;Reilly Engineering Practices for Continuous Delivery (CD/CI)
+Course name2016-02-13 O'Reilly Engineering Practices for Continuous Delivery (CD/CI)
+Course number(External)
+
+2016-02-16 Docker meetup - Tutum &amp; libCloud
+Course name2016-02-16 Docker meetup - Tutum & libCloud
+Course number(External)
+
+2016-05-03 Puppet Camp Sydney 2016
+Course name2016-05-03 Puppet Camp Sydney 2016
+Course number(External - PuppetLabs)
+
+2017-03-16 Hands on Workshop for Splunk Enterprise
+Course name2017-03-16 Hands on Workshop for Splunk Enterprise
+Course number(External - Splunk)
+
+2017-04-04 Google Cloud OnBoard - Fundamentals
+Course name2017-04-04 Google Cloud OnBoard - Fundamentals
+Course number(External - Google)
