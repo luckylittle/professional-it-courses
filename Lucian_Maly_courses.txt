@@ -1,4 +1,7 @@
-2018-12-03 Advanced deployment with Red Hat Ansible & Ansible Tower / 5-days session
+2019-08-05 - 09 Advanced Red Hat OpenShift Container Platform Deployment and Management / 5-days session
+(Internal - Red Hat)
+
+2018-12-03 - 07 Advanced deployment with Red Hat Ansible & Ansible Tower / 5-days session
 (Internal - Red Hat)
 
 2018-10-16 DevOps Culture & Practice enablement / 4-days Innovation Lab session
