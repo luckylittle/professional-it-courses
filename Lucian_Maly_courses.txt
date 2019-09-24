@@ -1,3 +1,30 @@
+2019-09-19 - Creating customized security policy content to automate security compliance
+(Internal - Red Hat)
+
+2019-09-19 - Operationalizing OpenShift with GitOps
+(Internal - Red Hat)
+
+2019-09-19 - OpenShift on Azure deep dive
+(Internal - Red Hat)
+
+2019-09-18 - OpenShift and Container Storage for Admins
+(Internal - Red Hat)
+
+2019-09-18 - Top security changes in Red Hat Enterprise Linux 8
+(Internal - Red Hat)
+
+2019-09-18 - Deep Dive on CI/CD and GitOps with OpenShift (Tekton) pipelines
+(Internal - Red Hat)
+
+2019-09-17 - OpenShift Security Best Practices
+(Internal - Red Hat)
+
+2019-09-17 - How to Architect a Cloud Native reactive application environment
+(Internal - Red Hat)
+
+2019-09-17 - Linux Container Internals with Podman & CRI-O
+(Internal - Red Hat)
+
 2019-08-05 - 09 Advanced Red Hat OpenShift Container Platform Deployment and Management / 5-days session
 (Internal - Red Hat)
 
