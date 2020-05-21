@@ -1,3 +1,11 @@
+2020-05-13 - Amazon Web Services Summit 2020
+(External - AWS)
+https://sites.google.com/site/lucianmaly1981/home/AWS_Summit_2020_%2813-May-2020%29.pdf
+
+2020-04-28 - Red Hat OpenShift Development I: Containerizing Applications (DO288)
+(Internal - Red Hat)
+https://sites.google.com/site/lucianmaly1981/home/Red_Hat_OpenShift_Development_I_DO288_Containerizing_Applications_%2828-Apr-2020%29.pdf
+
 2019-09-19 - Creating customized security policy content to automate security compliance
 (Internal - Red Hat)
 
