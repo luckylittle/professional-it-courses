@@ -1,3 +1,7 @@
+2020-07-06 - Red Hat Satellite 6 Administration (RH403)
+(Internal - Red Hat)
+https://sites.google.com/site/lucianmaly1981/home/Red_Hat_Satellite_6_Administration_%28RH403%29_2020-07-06.pdf
+
 2020-05-26 - 28 Google Cloud On-Air 2020
 (External - Google)
 https://sites.google.com/site/lucianmaly1981/home/Google_Cloud_on_Air-20200526-28.pdf
