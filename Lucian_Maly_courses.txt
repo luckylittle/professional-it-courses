@@ -1,3 +1,6 @@
+2020-08-31 - 2020-09-04 Advanced Cloud-Native Development with Red Hat OpenShift Application Runtimes
+(Internal - Red Hat)
+
 2020-07-06 - Red Hat Satellite 6 Administration (RH403)
 (Internal - Red Hat)
 https://sites.google.com/site/lucianmaly1981/home/Red_Hat_Satellite_6_Administration_%28RH403%29_2020-07-06.pdf
