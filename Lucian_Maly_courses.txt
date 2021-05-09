@@ -1,5 +1,9 @@
+2021-05-04 KubeCon + CloudNativeCon Europe 2021 (Virtual)
+
 2021-01-19 - 2021-01-22 Advanced Application Management using Red Hat Service Mesh (Istio)
 (Internal - Red Hat)
+
+2020-11-17 - KubeCon + CloudNativeCon North America 2020 (Virtual)
 
 2020-08-31 - 2020-09-04 Advanced Cloud-Native Development with Red Hat OpenShift Application Runtimes
 (Internal - Red Hat)
