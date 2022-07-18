@@ -1,3 +1,5 @@
+2022-07-12 Red Hat Technology Thought Leadership Accelerator (TTLA) CY22 Cohort Hybrid Formation Conference
+
 2021-05-04 KubeCon + CloudNativeCon Europe 2021 (Virtual)
 
 2021-01-19 - 2021-01-22 Advanced Application Management using Red Hat Service Mesh (Istio)
