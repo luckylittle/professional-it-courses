@@ -1,4 +1,14 @@
-2022-07-12 Red Hat Technology Thought Leadership Accelerator (TTLA) CY22 Cohort Hybrid Formation Conference
+2022-10-09 Official (ISC)2 Certified in Cybersecurity (CC) Self-Paced Training
+(External - ISC2)
+
+2022-10-03 GitOps as Scale Course - Level 2
+(External - Codefresh)
+
+2022-07-12 Red Hat Technology Thought Leadership Accelerator (TTLA) CY22 Cohort (Hybrid Formation Conference)
+(Internal - Red Hat)
+
+2021-09-12 GitOps Fundamentals Course - Level l
+(External - Codefresh)
 
 2021-05-04 KubeCon + CloudNativeCon Europe 2021 (Virtual)
 
